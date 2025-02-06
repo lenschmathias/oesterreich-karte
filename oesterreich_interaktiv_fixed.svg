@@ -1,0 +1,48 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Hintergrundkarte -->
+    <image href="https://static.wixstatic.com/media/29263e_3bda8c134cfb42c49a126a9f0ae7c12f~mv2.png" width="1000" height="600"/>
+
+    <a href="https://www.xn--gkt-rna.at/wien">
+        <polygon id="wien" points="873,141 858,148 851,153 850,163 855,170 865,171 877,170 890,165 890,151 885,142 874,141" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/vorarlberg">
+        <polygon id="vorarlberg" points="89,342 90,354 82,366 84,380 79,408 50,396 43,377 16,370 12,351 5,332 19,315" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/tirol">
+        <polygon id="tirol" points="80,410 86,377 83,365 92,354 91,330 118,311 123,296 120,276 127,273 135,280 152,277" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/steiermark">
+        <polygon id="steiermark" points="558,396 594,367 625,381 670,373 697,387 698,419 704,444 729,447 762,453" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/salzburg">
+        <polygon id="salzburg" points="335,365 349,365 363,357 380,353 399,359 411,356 424,365 440,373" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/oberösterreich">
+        <polygon id="oberösterreich" points="506,283 516,291 530,293 536,284 530,265 546,243 574,254 578,266 596,260" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/niederösterreich">
+        <polygon id="niederösterreich" points="661,238 662,223 670,217 666,207 635,195 628,181 634,176 634,154 641,153" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/burgenland">
+        <polygon id="burgenland" points="826,413 841,385 836,365 837,344 827,316 841,303 852,302" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+    <a href="https://www.xn--gkt-rna.at/kärnten">
+        <polygon id="kärnten" points="404,444 410,435 440,421 424,399 410,372 398,360 410,358 452,378" fill="rgba(255, 0, 0, 0.5)" stroke="black" stroke-width="1"/>
+    </a>
+    
+<style>
+    polygon:hover {
+        fill: rgba(0, 255, 0, 0.7);
+        cursor: pointer;
+        transition: fill 0.3s;
+    }
+</style>
+</svg>
